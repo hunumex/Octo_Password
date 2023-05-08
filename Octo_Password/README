@@ -1,0 +1,14 @@
+# Octo Password - Extension Chrome
+
+Une extension Chrome pour générer des mots de passe forts localement.
+
+## Icônes Material Icons
+
+Les icônes Material Icons utilisées dans cette extension sont sous licence Apache License, Version 2.0 (la "Licence"); vous ne pouvez utiliser ces fichiers que conformément à la Licence. Vous pouvez obtenir une copie de la Licence à l'adresse :
+http://www.apache.org/licenses/LICENSE-2.0
+
+Sauf si cela est requis par la loi applicable ou convenu par écrit, le logiciel distribué sous la Licence est distribué "TEL QUEL", SANS GARANTIE NI CONDITION D'AUCUNE SORTE, expresse ou implicite. Consultez la Licence pour connaître la langue spécifique régissant les permissions et les limitations en vertu de la Licence.
+
+## Licence
+
+Cette extension est distribuée sous les termes de la licence Apache 2.0. Pour plus d'informations, consultez le fichier [LICENSE.txt](./LICENSE.txt) inclus avec cette distribution.
